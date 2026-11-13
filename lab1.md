@@ -142,23 +142,23 @@ npm.cmd run web
 
 ### Головна сторінка
 
-![Головна сторінка з новинами та пошуком](screenshots/home.png)
+![Головна сторінка з новинами та пошуком](screenshots/emo4.jpg)
 
 ### Фотогалерея
 
-![Фотогалерея застосунку](screenshots/gallery.png)
+![Фотогалерея застосунку](screenshots/emo3.jpg)
 
 ### Профіль студента
 
-![Профіль студента](screenshots/profile.png)
+![Профіль студента](screenshots/emo2.jpg)
 
 ### Запуск в Android-емуляторі
 
-![Застосунок в Android-емуляторі](screenshots/android-emulator.png)
+![Застосунок в Android-емуляторі](screenshots/emo1.jpg)
 
 ### Запуск на фізичному пристрої
 
-![Застосунок на фізичному пристрої через Expo Go](screenshots/phone.png)
+![Застосунок на фізичному пристрої через Expo Go](screenshots/personalphone.jpg)
 
 ## Основні способи запуску та особливості тестування
 
