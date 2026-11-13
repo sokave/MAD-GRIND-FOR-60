@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Лабораторна робота 1",
+    "slug": "mobile-labs-rn-lab1",
+    "scheme": "mobilelabs",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "web": {"bundler": "metro", "output": "single"},
+    "android": {"package": "ua.edu.student.mobilelabs"}
+  }
+}
