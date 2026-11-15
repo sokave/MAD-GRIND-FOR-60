@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Кампус — Редакція",
+    "slug": "mobile-labs-rn-lab3",
+    "scheme": "mobilelabs3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "ua.edu.student.mobilelabs.lab3"
+    },
+    "ios": {
+      "bundleIdentifier": "ua.edu.student.mobilelabs.lab3"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": ["expo-router"]
+  }
+}
