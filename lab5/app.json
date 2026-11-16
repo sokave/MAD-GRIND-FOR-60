@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Файловий менеджер",
+    "slug": "mobile-labs-lab5",
+    "scheme": "mobilelab5files",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#101412",
+    "icon": "./assets/icon.png",
+    "android": { "package": "ua.edu.student.mobilelabs.lab5" },
+    "ios": { "bundleIdentifier": "ua.edu.student.mobilelabs.lab5" },
+    "web": { "bundler": "metro", "output": "single", "favicon": "./assets/icon.png" },
+    "plugins": ["expo-router", ["expo-splash-screen", { "backgroundColor": "#101412" }]]
+  }
+}
