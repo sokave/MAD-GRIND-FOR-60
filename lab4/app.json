@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Clicker",
+    "slug": "mobile-labs-rn-lab4",
+    "scheme": "clickerlab4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": { "package": "ua.edu.student.mobilelabs.lab4" },
+    "ios": { "bundleIdentifier": "ua.edu.student.mobilelabs.lab4" },
+    "web": { "bundler": "metro", "output": "single" },
+    "plugins": ["expo-router"]
+  }
+}
